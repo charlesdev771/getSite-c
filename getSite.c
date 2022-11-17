@@ -3,7 +3,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: getSite c.                                               ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 1.0                                                       ##
 ## CREATION DATE: 05/06/2022                                          ##
 ##                                                                    ##
